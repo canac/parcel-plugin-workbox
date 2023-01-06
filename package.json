@@ -7,7 +7,7 @@
   "license": "MIT",
   "repository": "https://github.com/canac/parcel-plugin-workbox",
   "dependencies": {
-    "workbox-build": "^5.1.4"
+    "workbox-build": "^6.5.4"
   },
   "peerDependencies": {
     "parcel-bundler": "^1.12.4"
